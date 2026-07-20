@@ -1,0 +1,6 @@
+{
+  "name": "Math Arena — Survival",
+  "description": "A survival-style math game for kids using the Gemini API for hints, bosses, and motivation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
